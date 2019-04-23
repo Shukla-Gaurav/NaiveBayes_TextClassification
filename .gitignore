@@ -1,0 +1,6 @@
+multi_class_digit_classification
+prob_lemmatize_bigram_with_stopwords
+prob_stemming
+test.json
+train.json
+prob_noextrafilter
